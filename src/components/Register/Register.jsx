@@ -1,5 +1,5 @@
 
-import Logo from '../LogIn/Logo'
+// import Logo from '../LogIn/Logo'
 import arrow from '../../static/arrowRight.svg'
 import name from '../../static/user.svg'
 import surname from '../../static/surname.svg'

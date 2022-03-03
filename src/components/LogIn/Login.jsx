@@ -5,7 +5,7 @@ import name from '../../static/user.svg'
 import PropTypes from 'prop-types'
 import { useState } from 'react'
 
-const LOGIN_URL = '/login';
+// const LOGIN_URL = '/login';
 
 async function loginUser(credentials) {
  return fetch('https://api.upgradeyourself.tk/login', {
